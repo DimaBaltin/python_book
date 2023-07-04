@@ -1,7 +1,0 @@
-age= 19
-if age < 18:
-    print('tu maloy')
-elif age>18:
-    print('ok')
-    
-else: print('tu norm')
